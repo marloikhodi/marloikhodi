@@ -1,10 +1,4 @@
-<div align="center">
-  <ul style="list-style: none;">
-    <summary>
-      <h1>Hello there! You can call me Marlo 🐻</h1>
-    </summary>
-  </ul>
-</div>
+<h1 align="center">Hello there! You can call me Marlo 🐻</h1>
 
 <h3 align="center">A dedicated fullstack developer with a thirst for wisdom</h3>
 
