@@ -11,7 +11,7 @@
 
 <h3 align="left">Currently learning:</h3>
 
-<a href="https://skillicons.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,html,css,tailwind,bootstrap,postman,git,github,figma" alt="Linguagens e Ferramentas"></a>
+<a href="https://skillicons.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=ts,nodejs,js,react,html,css,postman,git,github,figma" alt="Linguagens e Ferramentas"></a>
 
 <p><b>Building my skills in these programming languages and applications, with an emphasis on backend development.</b></p>
 
